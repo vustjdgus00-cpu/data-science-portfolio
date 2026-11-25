@@ -6,6 +6,16 @@
 
 **Tech Stack:** Python · pandas · NumPy · Jupyter · scikit-learn · Streamlit · JavaScript · Git
 
+## Selected Code | 분석 코드
+
+| Project | 코드 |
+|---|---|
+| Quant Regime Lab | [SPY 수익률·변동성 분석](projects/quant-regime-lab/notebooks/01_data_eda.ipynb) |
+| FOODSAFE | [기초 데이터 정제](projects/foodsafe/examples/data_cleaning.py) |
+| R.HOPE | [학습·검증 분리 및 평가](projects/rhope-ai/examples/model_validation.py) |
+
+공개 코드는 실제 프로젝트의 기초 분석 부분과 명시된 공개용 예제로 구성했습니다. 프로젝트별 세부 분석 과정 및 구현 자료는 필요에 따라 공유 가능한 범위에서 별도로 제공해 드릴 수 있습니다.
+
 ## 01. Financial AI & Quantitative Research
 
 | Project | 핵심 내용 | 진행 상태 |
