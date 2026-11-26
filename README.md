@@ -10,6 +10,7 @@
 
 | Project | 코드 |
 |---|---|
+| QUANT ADAPTIVE | [멀티에셋 데이터 수집·검증](projects/quant-regime-lab/notebooks/02_data_collection.ipynb) · [EDA 착수](projects/quant-regime-lab/notebooks/03_exploratory_analysis.ipynb) |
 | Quant Regime Lab | [SPY 수익률·변동성 분석](projects/quant-regime-lab/notebooks/01_data_eda.ipynb) |
 | FOODSAFE | [기초 데이터 정제](projects/foodsafe/examples/data_cleaning.py) |
 | R.HOPE | [학습·검증 분리 및 평가](projects/rhope-ai/examples/model_validation.py) |
@@ -18,7 +19,7 @@
 
 ## 01. Financial AI & Quantitative Research
 
-**Featured research:** [QUANT ADAPTIVE](projects/quant-regime-lab.md) — 9개 ETF, VIX, 무위험금리 기반 멀티에셋 연구. 데이터 파이프라인 구현 기록, 특성변수 단계 착수. 전략 및 백테스트는 예정이며 공개 코드는 SPY 초기 연구 범위입니다.
+**Featured research:** [QUANT ADAPTIVE](projects/quant-regime-lab.md) — 9개 ETF, VIX, 무위험금리 기반 멀티에셋 연구. 데이터 파이프라인 구현 기록, EDA 로딩 코드 작성. 기존 실행 기록: 4,250 거래일 × 9 ETF. 전략 및 백테스트는 예정입니다.
 
 | Project | 핵심 내용 | 진행 상태 |
 |---|---|---|
