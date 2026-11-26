@@ -18,10 +18,12 @@
 
 ## 01. Financial AI & Quantitative Research
 
+**Featured research:** [QUANT ADAPTIVE](projects/quant-regime-lab.md) — 9개 ETF, VIX, 무위험금리 기반 멀티에셋 연구. 데이터 파이프라인 구현 기록, 특성변수 단계 착수. 전략 및 백테스트는 예정이며 공개 코드는 SPY 초기 연구 범위입니다.
+
 | Project | 핵심 내용 | 진행 상태 |
 |---|---|---|
+| [QUANT ADAPTIVE / Quant Regime Lab](projects/quant-regime-lab.md) | 멀티에셋 금융 시계열 및 시장 국면 연구 | 개인 연구 진행 중 |
 | [자리핏 FinAI Pro](projects/jarifit-finai-pro.md) | 상권 매출 예측 및 창업금융 시뮬레이션 | 웹 프로토타입 |
-| [Quant Regime Lab](projects/quant-regime-lab.md) | SPY 수익률·변동성 및 시장 국면 연구 | 개인 연구 진행 중 |
 | [HANA FACT TRACE](projects/hana-fact-trace.md) | 투자정보와 공시 시점·정정 이력 검증 | 파일럿 연구·목업 |
 | [AURORA TRUSTOPS](projects/aurora-trustops.md) | 거래처 관계 분석 및 장려금 승인 통제 | 감사 코드·프로토타입 기록 |
 
